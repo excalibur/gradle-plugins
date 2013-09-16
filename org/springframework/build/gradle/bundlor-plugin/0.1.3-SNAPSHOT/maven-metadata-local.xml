@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.build.gradle</groupId>
+  <artifactId>bundlor-plugin</artifactId>
+  <version>0.1.3-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20130916083948</lastUpdated>
+  </versioning>
+</metadata>
