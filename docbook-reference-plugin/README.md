@@ -1,3 +1,6 @@
+## 说明
+修改了一点点代码方便支持中文编码
+
 ## Configuration
 See [tags][1] to determine the
 latest available version. Then configure the plugin in your project as

@@ -369,7 +369,9 @@ class PdfDocbookReferenceTask extends AbstractDocbookReferenceTask {
         String imagesPath = copyImages(project, xdir)
 
         FopFactory fopFactory = FopFactory.newInstance();
-        fopFactory.setBaseURL(project.file("${project.buildDir}/reference/pdf").toURI().toURL().toExternalForm());
+        // fopFactory.setBaseURL(project.file("${project.buildDir}/reference/pdf").toURI().toURL().toExternalForm());
+        // add it to support chinese easy
+        fopFactory.setUserConfig(project.file("${project.buildDir}/reference-work/pdf/fop.xconf").toURI().toURL().toExternalForm());
 
         OutputStream out = null;
         final File pdfFile = getPdfOutputFile(foFile);
