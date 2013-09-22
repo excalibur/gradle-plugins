@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bundlor-plugin/bundlor-plugin.iml" filepath="$PROJECT_DIR$/bundlor-plugin/bundlor-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docbook-reference-plugin/docbook-reference-plugin.iml" filepath="$PROJECT_DIR$/docbook-reference-plugin/docbook-reference-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradle-plugins.iml" filepath="$PROJECT_DIR$/gradle-plugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propdeps-plugin/propdeps-plugin.iml" filepath="$PROJECT_DIR$/propdeps-plugin/propdeps-plugin.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="resolver-2.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/org.apache.xerces/resolver/2.9.1/jar/3d0f97750b3a03e0971831566067754ba4bfd68c/resolver-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-24/filestore/org.apache.xerces/resolver/2.9.1/source/affd78577c56997305dbbf64fcff88186ee59d6c/resolver-2.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
