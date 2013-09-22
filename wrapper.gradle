@@ -1,4 +1,0 @@
-task wrapper(type:Wrapper) {
-    jarFile = ".wrapper/gradle-wrapper.jar"
-    gradleVersion = '1.6'
-}
